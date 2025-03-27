@@ -8,6 +8,8 @@ from PyQt6.QtGui import QPixmap
 from PyQt6.QtCore import Qt
 
 
+#Внесли изменения
+
 # База данных
 class CinemaDatabase:
     def __init__(self, db_name="cinema.db"):
